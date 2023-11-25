@@ -1,3 +1,9 @@
+create a map to store the value, index
+
+Now loop through the array , for each element  do target-element and store in variable because element+?=target
+check if result is in map, if yes then print value and index
+insert value and index
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
