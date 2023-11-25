@@ -1,3 +1,8 @@
+//If no str then return {}
+store first value as prefix, run the loop through array of strings, loop thrpough string to check if prefix in string or not, if not then update prefix by removing last value.
+
+
+
 class Solution {
  public:
     string longestCommonPrefix(vector<string>& strs) {
