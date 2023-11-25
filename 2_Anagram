@@ -14,7 +14,20 @@ public:
     }
 };
 
+
+
+
+
 //o(S+T),O(S+T), TIME AND SPACE COMPLEXITY
+check if size of two string same
+create 2 maps
+fill the map with letter and it's occurence
+if s_map !=t_map then not anagram
+
+
+
+
+
 
 class Solution {
 public:
